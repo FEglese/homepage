@@ -1,5 +1,3 @@
-# dependencies
 /node_modules
-
-# production
+react-app-env.d.ts
 /build
