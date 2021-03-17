@@ -1,6 +1,6 @@
 import React from 'react';
 
-import face from '../assets/square_me.png';
+import face from '../assets/square_me.webp';
 
 function Home() {
   return (
