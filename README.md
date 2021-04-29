@@ -1,3 +1,3 @@
 ## Homepage
 
-This is the code for my website at [fredrik.codes](www.fredrik.codes).
+This is the code for my website at [fredrik.codes](https://www.fredrik.codes).
